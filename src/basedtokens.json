@@ -1,0 +1,70 @@
+{
+  "name": "Based Money",
+  "timestamp": "2020-08-27T10:52:29.669Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://based.money/wp-content/uploads/2020/08/based-money-logo.svg",
+  "keywords": [
+    "based",
+    "money",
+    "defi",
+    "just market buy",
+    "unstable coin",
+    "route420",
+    "69"
+  ],
+  "tokens": [
+    {
+      "name": "BASED",
+      "address": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
+      "symbol": "BASED",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://based.money/wp-content/uploads/2020/08/based-money-logo.svg"
+    },
+    {
+      "name": "BASEDv1",
+      "address": "0x29428639d889fa989405ee9baF3Ba088E6994eDC",
+      "symbol": "BASED",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/nimrodwildfire/route420/master/images/based-money-v1-logo.png"
+    },
+    {
+      "name": "Curve.fi DAI/USDC/USDT/sUSD",
+      "address": "0xC25a3A3b969415c80451098fa907EC722572917F",
+      "symbol": "sCURVE",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://etherscan.io/token/images/Curvefi_sCrv_32.png"
+    },
+    {
+      "name": "Synth sUSD",
+      "address": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+      "symbol": "sUSD",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/master/synths/sUSD.svg"
+    },
+    {
+      "name": "Synthetix Network Token",
+      "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "symbol": "SNX",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/master/snx/SNX_blue.svg"
+    },
+    {
+      "name": "sBASED UNI-V2 LP Token",
+      "address": "0xaAD22f5543FCDaA694B68f94Be177B561836AE57",
+      "symbol": "sBASED",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/nimrodwildfire/route420/master/images/sBASED.png"
+    }
+  ]
+}
