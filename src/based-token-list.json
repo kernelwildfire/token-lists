@@ -1,0 +1,70 @@
+{
+  "name": "$BASED Money",
+  "logoURI": "https://based.money/wp-content/uploads/2020/08/based-money-logo.svg",
+  "keywords": [
+    "based",
+    "money",
+    "defi",
+    "just market buy",
+    "route420",
+    "69",
+    "unstable coin",
+    "$1"
+  ],
+  "timestamp": "2020-08-27T14:11:23+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
+      "name": "$BASEDv1.5",
+      "symbol": "$BASED",
+      "decimals": 18,
+      "logoURI": "https://based.money/wp-content/uploads/2020/08/based-money-logo.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x29428639d889fa989405ee9baF3Ba088E6994eDC",
+      "name": "$BASEDv1",
+      "symbol": "$BASED",
+      "decimals": 8,
+      "logoURI": "https://based.money/wp-content/uploads/2020/08/based-money-logo.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xC25a3A3b969415c80451098fa907EC722572917F",
+      "name": "Curve.fi DAI/USDC/USDT/sUSD",
+      "symbol": "crvPlain3andSUSD",
+      "decimals": 8,
+      "logoURI": "https://etherscan.io/token/images/Curvefi_sCrv_32.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+      "name": "Synth sUSD",
+      "symbol": "sUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/master/synths/sUSD.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+      "name": "Synthetix Network Token",
+      "symbol": "SNX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/master/snx/SNX_blue.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xaAD22f5543FCDaA694B68f94Be177B561836AE57",
+      "name": "sBASED ($BASED/sUSD UNI-V2 LP Token)",
+      "symbol": "sBASED",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/nimrodwildfire/route420/master/images/sBASED.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
